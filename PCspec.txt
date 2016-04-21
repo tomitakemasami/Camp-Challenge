@@ -1,0 +1,12 @@
+﻿PCスペック
+OS X EI Capitan バージョン10.11.3
+MacBook Pro(Retina,13-inch,Mid 2014)
+プロセッサ 2.6 GHz intel Core i5
+メモリ 8GB 1600 MHz DDR3
+起動ディスク Macintosh HD
+グラフィックス Intel Iris 1536 MB
+シリアル番号 C02NT2ABG3QH
+
+
+内蔵ディスプレイ 13.3インチ(2560x1600)
+Intel Iris 1536 MB
